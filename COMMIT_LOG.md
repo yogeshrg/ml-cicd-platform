@@ -304,3 +304,4 @@
 ## 2020-01-11 15:25:45 - feat(queue): add queue support (1/20)
 ## 2020-01-18 13:41:26 - feat(db): implement db module (13/20)
 ## 2020-01-18 16:51:18 - feat(test): add test support (9/20)
+## 2020-01-26 16:44:53 - feat(auth): create auth handler (4/20)
