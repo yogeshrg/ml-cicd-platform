@@ -607,3 +607,4 @@
 ## 2020-01-18 13:41:26 - feat(db): implement db module (13/20)
 ## 2020-01-18 16:51:18 - feat(test): add test support (9/20)
 ## 2020-01-26 16:44:53 - feat(auth): create auth handler (4/20)
+## 2020-02-01 09:53:07 - feat(infra): implement infra module (6/20)
