@@ -158,3 +158,4 @@
 ## 2020-02-02 14:34:22 - feat(security): add security endpoint (11/20)
 ## 2020-02-09 20:38:45 - feat(queue): create queue handler (4/20)
 ## 2020-02-24 13:17:28 - feat(auth): add auth support
+## 2020-03-22 10:24:16 - feat(monitor): add monitor endpoint (2/20)
