@@ -311,3 +311,4 @@
 ## 2020-02-24 13:17:28 - feat(auth): add auth support
 ## 2020-03-22 10:24:16 - feat(monitor): add monitor endpoint (2/20)
 ## 2020-08-22 17:32:15 - feat(ci): add ci support (4/20)
+## 2020-11-07 13:17:15 - feat(metric): add metric support (10/20)
