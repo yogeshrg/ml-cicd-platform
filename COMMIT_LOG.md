@@ -464,3 +464,4 @@
 ## 2020-08-22 17:32:15 - feat(ci): add ci support (4/20)
 ## 2020-11-07 13:17:15 - feat(metric): add metric support (10/20)
 ## 2020-11-29 14:24:10 - feat(log): implement log module (4/20)
+## 2020-11-30 10:51:44 - feat(build): add build endpoint
