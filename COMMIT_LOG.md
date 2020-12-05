@@ -616,3 +616,4 @@
 ## 2020-11-07 13:17:15 - feat(metric): add metric support (10/20)
 ## 2020-11-29 14:24:10 - feat(log): implement log module (4/20)
 ## 2020-11-30 10:51:44 - feat(build): add build endpoint
+## 2020-12-05 20:07:13 - feat(data): add data endpoint (19/20)
