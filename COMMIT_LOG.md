@@ -317,3 +317,4 @@
 ## 2020-12-05 20:07:13 - feat(data): add data endpoint (19/20)
 ## 2020-12-11 15:31:36 - feat(alert): create alert handler
 ## 2021-01-10 19:36:21 - feat(auth): add auth support (4/20)
+## 2021-01-12 20:00:43 - feat(docs): implement docs feature
