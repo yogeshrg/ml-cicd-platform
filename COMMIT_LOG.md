@@ -168,3 +168,4 @@
 ## 2021-01-10 19:36:21 - feat(auth): add auth support (4/20)
 ## 2021-01-12 20:00:43 - feat(docs): implement docs feature
 ## 2021-02-07 21:52:49 - feat(ci): implement ci module (8/20)
+## 2021-02-14 17:54:40 - feat(api): add api endpoint (5/20)
