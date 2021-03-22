@@ -473,3 +473,4 @@
 ## 2021-02-14 17:54:40 - feat(api): add api endpoint (5/20)
 ## 2021-03-15 20:27:38 - feat(ui): add ui support
 ## 2021-03-16 15:30:46 - feat(docs): implement docs feature
+## 2021-03-22 18:14:11 - feat(cache): add cache endpoint
