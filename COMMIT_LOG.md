@@ -324,3 +324,4 @@
 ## 2021-03-16 15:30:46 - feat(docs): implement docs feature
 ## 2021-03-22 18:14:11 - feat(cache): add cache endpoint
 ## 2021-04-10 14:39:45 - feat(alert): implement alert module (18/20)
+## 2021-04-11 17:35:25 - feat(security): add security endpoint (19/20)
