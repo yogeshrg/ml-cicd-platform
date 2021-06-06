@@ -326,3 +326,4 @@
 ## 2021-04-10 14:39:45 - feat(alert): implement alert module (18/20)
 ## 2021-04-11 17:35:25 - feat(security): add security endpoint (19/20)
 ## 2021-05-16 09:43:20 - feat(auth): implement auth module (3/20)
+## 2021-06-06 23:13:23 - feat(api): add api support (7/20)
