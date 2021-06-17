@@ -479,3 +479,4 @@
 ## 2021-05-16 09:43:20 - feat(auth): implement auth module (3/20)
 ## 2021-06-06 23:13:23 - feat(api): add api support (7/20)
 ## 2021-06-12 14:02:47 - feat(db): add db support (14/20)
+## 2021-06-17 14:47:34 - feat(core): add core endpoint
