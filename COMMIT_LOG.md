@@ -482,3 +482,4 @@
 ## 2021-06-17 14:47:34 - feat(core): add core endpoint
 ## 2021-07-04 11:24:55 - feat(ui): add ui support (8/20)
 ## 2021-07-04 11:46:15 - feat(build): add build endpoint (1/20)
+## 2021-07-18 17:25:01 - feat(ci): add ci support (3/20)
