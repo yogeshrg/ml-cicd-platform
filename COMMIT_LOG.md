@@ -634,3 +634,4 @@
 ## 2021-07-04 11:24:55 - feat(ui): add ui support (8/20)
 ## 2021-07-04 11:46:15 - feat(build): add build endpoint (1/20)
 ## 2021-07-18 17:25:01 - feat(ci): add ci support (3/20)
+## 2021-08-08 18:25:19 - feat(deploy): add deploy support (4/20)
