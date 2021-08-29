@@ -485,3 +485,4 @@
 ## 2021-07-18 17:25:01 - feat(ci): add ci support (3/20)
 ## 2021-08-08 18:25:19 - feat(deploy): add deploy support (4/20)
 ## 2021-08-14 19:21:09 - feat(model): implement model module (7/20)
+## 2021-08-29 18:37:04 - feat(build): create build handler (11/20)
