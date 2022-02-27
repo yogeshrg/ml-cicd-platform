@@ -493,3 +493,4 @@
 ## 2021-11-20 11:29:02 - feat(docs): create docs handler (2/20)
 ## 2021-11-28 13:26:10 - feat(core): implement core module (16/20)
 ## 2021-12-04 13:03:34 - feat(data): create data handler (17/20)
+## 2022-02-27 15:34:57 - feat(log): add log support (12/20)
