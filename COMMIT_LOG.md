@@ -346,3 +346,4 @@
 ## 2022-03-05 23:03:53 - feat(test): implement test module (5/20)
 ## 2022-03-19 10:40:57 - feat(security): implement security module (6/20)
 ## 2022-04-16 10:33:20 - feat(metric): create metric handler (17/20)
+## 2022-05-08 17:16:11 - feat(infra): add infra endpoint (3/20)
