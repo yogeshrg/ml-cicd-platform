@@ -197,3 +197,4 @@
 ## 2022-04-16 10:33:20 - feat(metric): create metric handler (17/20)
 ## 2022-05-08 17:16:11 - feat(infra): add infra endpoint (3/20)
 ## 2022-05-14 14:19:30 - feat(queue): implement queue feature (2/20)
+## 2022-05-15 14:56:46 - feat(config): add config endpoint (15/20)
