@@ -654,3 +654,4 @@
 ## 2022-05-21 10:00:03 - feat(metric): add metric support (15/20)
 ## 2022-05-21 14:11:52 - feat(auth): add auth endpoint (18/20)
 ## 2022-06-25 18:14:48 - feat(api): implement api feature (8/20)
+## 2022-06-26 23:25:48 - feat(db): add db support (6/20)
