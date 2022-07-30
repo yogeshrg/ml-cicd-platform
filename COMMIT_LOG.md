@@ -203,3 +203,4 @@
 ## 2022-06-25 18:14:48 - feat(api): implement api feature (8/20)
 ## 2022-06-26 23:25:48 - feat(db): add db support (6/20)
 ## 2022-07-30 13:38:08 - feat(infra): create infra handler (13/20)
+## 2022-07-30 21:34:48 - feat(deploy): add deploy endpoint (7/20)
