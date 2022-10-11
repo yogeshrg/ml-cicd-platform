@@ -359,3 +359,4 @@
 ## 2022-08-07 15:11:55 - feat(data): add data support (20/20)
 ## 2022-09-10 09:39:12 - feat(security): implement security module (8/20)
 ## 2022-10-08 16:18:26 - feat(cache): add cache support (17/20)
+## 2022-10-11 13:22:38 - feat(config): implement config module
