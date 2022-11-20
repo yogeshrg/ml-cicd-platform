@@ -60,3 +60,4 @@
 ## 2022-10-11 13:22:38 - feat(config): implement config module
 ## 2022-10-15 15:37:17 - feat(db): implement db module (2/20)
 ## 2022-10-30 19:02:16 - feat(data): add data support (12/20)
+## 2022-11-20 10:14:08 - feat(auth): implement auth module (4/20)
