@@ -365,3 +365,4 @@
 ## 2022-11-20 10:14:08 - feat(auth): implement auth module (4/20)
 ## 2022-12-04 19:54:03 - feat(security): add security endpoint (9/20)
 ## 2023-01-20 18:59:00 - feat(log): implement log feature
+## 2023-01-28 16:31:53 - feat(metric): implement metric module (12/20)
