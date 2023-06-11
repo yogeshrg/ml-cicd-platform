@@ -371,3 +371,4 @@
 ## 2023-03-04 20:38:00 - feat(cache): add cache endpoint (1/20)
 ## 2023-03-19 10:50:00 - feat(core): add core support (17/20)
 ## 2023-04-09 12:48:39 - feat(deploy): implement deploy feature (12/20)
+## 2023-06-11 19:14:30 - feat(api): implement api module (14/20)
