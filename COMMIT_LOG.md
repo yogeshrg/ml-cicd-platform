@@ -71,3 +71,4 @@
 ## 2023-04-09 12:48:39 - feat(deploy): implement deploy feature (12/20)
 ## 2023-06-11 19:14:30 - feat(api): implement api module (14/20)
 ## 2023-06-17 20:37:01 - feat(infra): create infra handler (14/20)
+## 2023-06-18 12:22:02 - feat(worker): add worker support (10/20)
