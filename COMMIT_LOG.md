@@ -677,3 +677,4 @@
 ## 2023-06-17 20:37:01 - feat(infra): create infra handler (14/20)
 ## 2023-06-18 12:22:02 - feat(worker): add worker support (10/20)
 ## 2023-07-01 10:51:08 - feat(model): create model handler (8/20)
+## 2023-07-14 20:36:23 - feat(cache): add cache endpoint
