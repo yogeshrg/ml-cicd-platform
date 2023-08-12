@@ -377,3 +377,4 @@
 ## 2023-07-01 10:51:08 - feat(model): create model handler (8/20)
 ## 2023-07-14 20:36:23 - feat(cache): add cache endpoint
 ## 2023-07-15 16:26:22 - feat(queue): implement queue feature (11/20)
+## 2023-08-12 18:42:30 - feat(worker): add worker support (10/20)
