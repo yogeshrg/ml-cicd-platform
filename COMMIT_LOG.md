@@ -81,3 +81,4 @@
 ## 2023-10-28 19:35:02 - feat(api): implement api module (10/20)
 ## 2023-10-28 21:51:52 - feat(config): implement config module (7/20)
 ## 2023-10-29 13:26:51 - feat(monitor): implement monitor feature (14/20)
+## 2023-11-11 11:45:51 - feat(ci): add ci support (4/20)
