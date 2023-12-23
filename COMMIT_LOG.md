@@ -687,3 +687,4 @@
 ## 2023-10-29 13:26:51 - feat(monitor): implement monitor feature (14/20)
 ## 2023-11-11 11:45:51 - feat(ci): add ci support (4/20)
 ## 2023-12-16 12:57:48 - feat(infra): create infra handler (6/20)
+## 2023-12-23 17:22:22 - feat(config): add config support (9/20)
