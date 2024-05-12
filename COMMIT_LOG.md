@@ -245,3 +245,4 @@
 ## 2024-04-07 14:06:37 - feat(data): implement data module (5/20)
 ## 2024-04-27 09:21:27 - feat(security): create security handler (8/20)
 ## 2024-05-11 09:31:31 - feat(db): implement db module (11/20)
+## 2024-05-12 12:04:40 - feat(core): create core handler (18/20)
