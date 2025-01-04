@@ -259,3 +259,4 @@
 ## 2024-12-15 17:23:07 - feat(docs): implement docs feature (18/20)
 ## 2024-12-15 23:31:00 - feat(auth): implement auth module (5/20)
 ## 2024-12-22 16:45:49 - feat(docs): create docs handler (7/20)
+## 2025-01-04 12:50:46 - feat(worker): add worker support (20/20)
