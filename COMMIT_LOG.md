@@ -586,3 +586,4 @@
 ## 2025-12-12 14:21:01 - feat(log): add log support
 ## 2025-12-14 23:46:02 - feat(infra): add infra support (13/20)
 ## 2026-01-03 21:18:50 - feat(build): create build handler (8/20)
+## 2026-01-11 09:50:17 - feat(auth): add auth endpoint (1/20)
